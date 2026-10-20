@@ -11,7 +11,7 @@
     <string name="title">Hydration Reminder</string>
     <string name="btn_send">Send reminder</string>
     <string name="history">History</string>
-    <string name="no_records">There\'s no reminders yet</string>
+    <string name="no_registers">There\'s no reminders yet</string>
     <string name="reminder_received">Reminder received</string>
     <string name="drink_water">Drink water!</string>
     <string name="not_now">Not now</string>
