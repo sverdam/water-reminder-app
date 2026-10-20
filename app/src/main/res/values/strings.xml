@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">water-reminder-app</string>
+    <string name="app_name">Water Reminder App</string>
+
+    <!-- NOTIFS -->
+    <string name="channel_name">Water Reminder</string>
+    <string name="channel_description">Reminds you to drink water</string>
+    <string name="notif_title">Time to hydrate!</string>
+    <string name="notif_text">Remember to drink a glass of water</string>
+
+    <!-- MAIN SCREEN  -->
+    <string name="title">Hydration Reminder</string>
+    <string name="btn_send">Send reminder</string>
+    <string name="history">History</string>
+    <string name="no_records">There\'s no reminders yet</string>
+    <string name="reminder_received">Reminder received</string>
+    <string name="drink_water">Drink water!</string>
+    <string name="not_now">Not now</string>
+    <string name="permission_necessary">Need permission to send notifications</string>
 </resources>
